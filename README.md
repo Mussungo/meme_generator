@@ -10,7 +10,7 @@ by your own</p>
 
 # How to use
 
-after cloning || fork...
+after cloning...
 
 <p>npm install</p>
 <p>npm run dev</p>
