@@ -1,4 +1,4 @@
-# Introduction to Web Development, Reactjs
+# Meme generator
 
 <img width="1079" alt="project-image" src="https://user-images.githubusercontent.com/110233070/187682530-6fe620fa-3670-40af-b04d-74b5673c873a.png">
 
